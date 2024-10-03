@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Jfsdplacify/static/css/main.dca3fc32.css",
+    "main.js": "/Jfsdplacify/static/js/main.10620857.js",
+    "static/js/453.8c7ad2fc.chunk.js": "/Jfsdplacify/static/js/453.8c7ad2fc.chunk.js",
+    "index.html": "/Jfsdplacify/index.html",
+    "main.dca3fc32.css.map": "/Jfsdplacify/static/css/main.dca3fc32.css.map",
+    "main.10620857.js.map": "/Jfsdplacify/static/js/main.10620857.js.map",
+    "453.8c7ad2fc.chunk.js.map": "/Jfsdplacify/static/js/453.8c7ad2fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dca3fc32.css",
+    "static/js/main.10620857.js"
+  ]
+}
